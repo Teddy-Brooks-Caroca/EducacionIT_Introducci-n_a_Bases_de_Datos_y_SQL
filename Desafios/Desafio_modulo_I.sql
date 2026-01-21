@@ -1,5 +1,5 @@
-#/* =====================================================
-   DESAFÍOS – INTRODUCCIÓN A SQL Y BASES DE DATOS
+/* =====================================================
+   DESAFÍOS – INTRODUCCIÓN A SQL Y BASES DE DATOS (actualización 2025)
    DESAFÍO DEL MÓDULO I
    ===================================================== */
 

@@ -1,5 +1,5 @@
 /* =====================================================
-   INTRODUCCIÓN A BASES DE DATOS Y SQL
+   INTRODUCCIÓN A BASES DE DATOS Y SQL (actualización 2025)
    PROYECTO INTEGRADOR 2026
    ===================================================== */
 
